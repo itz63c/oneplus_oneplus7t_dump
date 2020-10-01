@@ -1,0 +1,13 @@
+# hotdogb-user 10 QKQ1.190716.003 2009072019 release-keys
+- manufacturer: 
+- platform: msmnile
+- codename: OnePlus7T
+- flavor: hotdogb-user
+- release: 10
+- id: QKQ1.190716.003
+- incremental: 2009072019
+- tags: release-keys
+- fingerprint: OnePlus/OnePlus7T/OnePlus7T:10/QKQ1.190716.003/2009072019:user/release-keys
+- brand: OnePlus
+- branch: hotdogb-user-10-QKQ1.190716.003-2009072019-release-keys
+- repo: oneplus_oneplus7t_dump
